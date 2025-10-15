@@ -8,4 +8,5 @@ Um jogo simples em Java onde o jogador tenta adivinhar um número entre 1 e 100.
 3. Tente adivinhar o número gerado pelo computador!
 
 ## Autor
-Criado por Jaqueline com ajuda do Copilot 🤖
+Criado por Jaqueline 🤖
+
